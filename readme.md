@@ -31,6 +31,10 @@ As a Developer,
 I want to compile my ES6 javascript to previous versions,  
 So that it will run in any browser.  
 
+As a Developer,
+I want to comppile my jsx React code,
+So that it will run in a browser.
+
 ### Learning Notes
 
 - The most basic setup involves just a config file (.babelrc), which specifies which presets to use, and a script or command to run babel.
